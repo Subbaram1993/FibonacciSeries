@@ -1,0 +1,11 @@
+
+## Printing the Fibonacci series.
+enter the number:   10
+1 1 2 3 5 8 13 21 34 55 
+Completed
+
+
+##Printing the Nth term of the fibonacci series.
+enter the term: 10
+55 
+Completed
